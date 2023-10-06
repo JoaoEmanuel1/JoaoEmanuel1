@@ -10,7 +10,7 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 
 🌟 Estou sempre em busca de desafios que me permitam expandir meu conhecimento e colaborar com pessoas criativas. Se você tem um projeto interessante ou uma ideia inovadora, estou pronto para contribuir com meu conhecimento e habilidades.
 
-  <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="400" height="350" />
+  <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="400" height="300" />
 
 <br/>
 <br/>
