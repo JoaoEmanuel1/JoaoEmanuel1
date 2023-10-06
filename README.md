@@ -1,6 +1,6 @@
 👋 Olá, comunidade do GitHub!
 
-Sou um desenvolvedor Java Web e analista de dados entusiasmado com a criação de soluções tecnológicas inovadoras. Com uma paixão pelo mundo da programação, transformo ideias criativas em realidade por meio do desenvolvimento Java robusto e do poder analítico dos dados.
+Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado com a criação de soluções tecnológicas inovadoras. Com uma paixão pelo mundo da programação, transformo ideias criativas em realidade por meio do desenvolvimento Java robusto e do poder analítico dos dados.
 
 💼 Desenvolvedor Java Web: Tenho uma forte experiência no desenvolvimento de aplicativos web dinâmicos e interativos usando Java. Meu foco está em criar interfaces intuitivas e funcionais que proporcionam uma experiência de usuário excepcional.
 
@@ -10,10 +10,17 @@ Sou um desenvolvedor Java Web e analista de dados entusiasmado com a criação d
 
 🌟 Estou sempre em busca de desafios que me permitam expandir meu conhecimento e colaborar com pessoas criativas. Se você tem um projeto interessante ou uma ideia inovadora, estou pronto para contribuir com meu conhecimento e habilidades.
 
-  <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="500" height="350" />
+
+
+
 
 - 💼 Algum trabalho Freelancer? Entre em contato: [email](mailto:joaoemanuelcf01@gmail.com) :)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!
+
+
+
+
 
 **Linguagens e Ferramentas:**  
 
