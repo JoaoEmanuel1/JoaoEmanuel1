@@ -4,7 +4,7 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 
 💼 Desenvolvedor Java Web: Tenho uma forte experiência no desenvolvimento de aplicativos web dinâmicos e interativos usando Java. Meu foco está em criar interfaces intuitivas e funcionais que proporcionam uma experiência de usuário excepcional.
 
-📈 Analista de Dados: Com habilidades analíticas afiadas, transformo dados brutos em insights valiosos. Trabalho com ferramentas avançadas para analisar padrões, prever tendências e ajudar as organizações a tomar decisões orientadas por dados.
+📈 Analista de Dados: Com habilidades analíticas, transformo dados brutos em insights valiosos. Trabalho com ferramentas avançadas para analisar padrões, prever tendências e ajudar as organizações a tomar decisões orientadas por dados.
 
 🐍 Entusiasta de Python: Além do meu amor por Java, tenho uma queda por Python. Uso essa linguagem versátil para automatizar processos, criar modelos de aprendizado de máquina e explorar a ciência de dados.
 
@@ -12,13 +12,16 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 
   <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="500" height="350" />
 
-
-
+<br/>
+<br/>
+<br/>
 
 - 💼 Algum trabalho Freelancer? Entre em contato: [email](mailto:joaoemanuelcf01@gmail.com) :)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!
 
 
+<br/>
+<br/>
 
 
 
