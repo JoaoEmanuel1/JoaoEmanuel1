@@ -15,15 +15,10 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 <br/>
 <br/>
 <br/>
+<br/>
 
 - 💼 Algum trabalho Freelancer? Entre em contato: [email](mailto:joaoemanuelcf01@gmail.com) :)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!
-
-
-<br/>
-<br/>
-
-
 
 **Linguagens e Ferramentas:**  
 
