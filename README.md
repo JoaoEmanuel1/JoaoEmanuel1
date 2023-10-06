@@ -10,7 +10,7 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 
 🌟 Estou sempre em busca de desafios que me permitam expandir meu conhecimento e colaborar com pessoas criativas. Se você tem um projeto interessante ou uma ideia inovadora, estou pronto para contribuir com meu conhecimento e habilidades.
 
-  <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="500" height="350" />
+  <img align="right" alt="GIF" src="https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/main/code.gif?raw=true" width="400" height="350" />
 
 <br/>
 <br/>
@@ -26,6 +26,7 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br/>
 - 💼 Algum trabalho Freelancer? Entre em contato: [email](mailto:joaoemanuelcf01@gmail.com) :)
 - 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!
 
