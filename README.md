@@ -17,9 +17,6 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 <br/>
 <br/>
 
-- 💼 Algum trabalho Freelancer? Entre em contato: [email](mailto:joaoemanuelcf01@gmail.com) :)
-- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!
-
 **Linguagens e Ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -29,6 +26,8 @@ Me chamo João, sou um desenvolvedor Java Web e analista de dados entusiasmado c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- 💼 Algum trabalho Freelancer? Entre em contato: [email](mailto:joaoemanuelcf01@gmail.com) :)
+- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar!
 
 
 
