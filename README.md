@@ -53,6 +53,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JoãoEmanuel1/JoãoEmanuel1/output/snake.svg" alt="Snake animation" />
+---
 
-###
+## 🐍 Snake com meus commits
+
+![snake gif](https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/output/snake.svg)
