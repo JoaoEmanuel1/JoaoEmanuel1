@@ -50,7 +50,4 @@
 <br clear="both">
 
 ---
-
-## 🐍 Snake com meus commits
-
 ![snake gif](https://github.com/JoaoEmanuel1/JoaoEmanuel1/blob/output/snake.svg)
